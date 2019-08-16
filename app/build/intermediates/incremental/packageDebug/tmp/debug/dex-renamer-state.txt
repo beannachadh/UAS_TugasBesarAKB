@@ -1,0 +1,4 @@
+#Sat Aug 17 01:04:58 ICT 2019
+base.0=C\:\\Users\\grandprang\\Documents\\grry\\TubesAKB\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
